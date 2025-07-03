@@ -4,7 +4,7 @@ This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprla
 
 
 
----
+
 
 ## 🖼️ Gallery
 
