@@ -2,6 +2,26 @@
 
 This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprland** setup 
 
+
+---
+
+## 🖼️ Gallery
+
+<div align="center">
+
+<img src="./preview/neofetch.png" width="700" alt="Neofetch + Fish Shell Preview"/>
+
+
+
+<img src="./preview/cava.png" width="700" alt="Cava Preview"/>
+
+
+
+<img src="./preview/spicetify.png" width="700" alt="spicetify Preview"/>
+
+</div>
+
+
 ---
 
 ## Terminal Tools I Use

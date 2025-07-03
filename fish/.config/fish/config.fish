@@ -61,7 +61,7 @@ function hkr
     
 end
 function cc 
-    code ~/.config/cava/config
+    code dotfiles/cava/.config/cava/config
     code Documents/Configuration
 end
 function spotify_song
