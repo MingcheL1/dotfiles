@@ -3,7 +3,7 @@
 This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprland** setup 
 
 
-<<<<<<< HEAD
+
 ---
 
 ## 🖼️ Gallery
