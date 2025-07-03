@@ -3,6 +3,7 @@
 This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprland** setup 
 
 
+<<<<<<< HEAD
 ---
 
 ## 🖼️ Gallery
@@ -23,6 +24,7 @@ This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprla
 
 
 ---
+
 
 ## Terminal Tools I Use
 
@@ -52,7 +54,7 @@ Here are my favorite command-line tools powering my daily workflow:
 Clone this repo and use `stow` to symlink
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git
+git clone https://github.com/MingcheL1/dotfiles.git
 cd dotfiles
 stow fish neofetch kitty  
 ```
