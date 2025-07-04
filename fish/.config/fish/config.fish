@@ -211,3 +211,6 @@ fish_add_path /home/mingche/.spicetify
 
 
 
+
+# Created by `pipx` on 2025-07-03 20:30:21
+set PATH $PATH /home/mingche/.local/bin
