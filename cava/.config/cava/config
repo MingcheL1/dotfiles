@@ -1,4 +1,4 @@
-
+# /* ---- 💫 https://github.com/JaKooLit 💫 ---- */  #
 # /* wallust template - colors-cava */
 
 ## Configuration file for CAVA.
@@ -168,7 +168,7 @@
 ; data_format = binary
 
 # Binary bit format, can be '8bit' (0-255) or '16bit' (0-65530).
-; bit_format = '16bit'
+; bit_format = 16bit
 
 # Ascii max value. In 'ascii' mode range will run from 0 to value specified here
 ; ascii_max_range = 1000
@@ -240,7 +240,6 @@ gradient_color_6 = '#4361ee'
 gradient_color_7 = '#4895ef'
 gradient_color_8 = '#4cc9f0'
 
-
 # for wallust
 gradient = 1
 gradient_count = 8
@@ -252,7 +251,6 @@ gradient_color_5 = '#3f37c9'
 gradient_color_6 = '#4361ee'
 gradient_color_7 = '#4895ef'
 gradient_color_8 = '#4cc9f0'
-
 
 [smoothing]
 

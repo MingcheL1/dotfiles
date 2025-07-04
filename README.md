@@ -28,7 +28,7 @@ This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprla
 
 ## Terminal Tools I Use
 
-Here are my favorite command-line tools powering my daily workflow:
+Here are my favorite CLI eye-candies that make ubuntu look 10x better
 
 | 🧩 Tool        | 📝 Description                         | 🔗 Link                                |
 |----------------|----------------------------------------|----------------------------------------------|
@@ -46,7 +46,7 @@ Here are my favorite command-line tools powering my daily workflow:
 | 🎧 [spicetify](https://github.com/spicetify/spicetify-cli) | Fully customize your spotify       | [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) |
 | ⚡ [fastfetch](https://github.com/fastfetch-cli/fastfetch) | Display system info         | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) |
 | 🚂 [sl](https://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) | Train appears when you mistype `ls`        | [sl](https://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html) |
-
+| 🫧 [bubblescli](https://github.com/MingcheL1/BubblesCLI) | Frutiger-Aero inspired screensaver that blows bubbles into your terminal       | [mingchel1/bubblescli](https://github.com/MingcheL1/BubblesCLI) |
 ---
 
 ## ⚡🔧 Quick Setup
