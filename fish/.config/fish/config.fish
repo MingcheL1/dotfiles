@@ -16,7 +16,7 @@ function clr
 end
 # remove default clock
 function fish_right_prompt
-  echo (set_color 71717a)@"$USER"
+  echo (set_color 71717a)""
 end
 function fishy
   code ~/.config/fish/config.fish
