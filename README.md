@@ -1,6 +1,6 @@
 # ✨ Welcome to My Dotfiles! ✨
 
-This repo contains all of my **configuration files** for my 🐧 **Ubuntu Hyprland** setup 
+This repo contains all of my **configuration files** for my 🐧 **Hyprland** setup 
 
 
 
